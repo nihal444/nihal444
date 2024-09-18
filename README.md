@@ -38,7 +38,11 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,mongodb,java,mysql" /><br>
+    <div style="display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql" alt="Skill Icons" style="vertical-align: middle;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Icon" style="width: 48px; vertical-align: middle;" />
+</div>
+
 </div>
 
 <br/>
