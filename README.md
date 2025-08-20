@@ -39,8 +39,14 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" /><br>
     <div style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,aws,mysql" alt="Skill Icons" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,aws,mysql" alt="Skill Icons" style="vertical-align: middle;"/>
+    <img src="https://www.svgrepo.com/show/79506/excel-file.svg"
+     alt="Excel Monochrome Icon"
+     style="width: 48px; vertical-align: middle;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Icon" style="width: 48px; vertical-align: middle;" />
+    <img src="https://www.svgrepo.com/show/306830/tableau.svg"
+     alt="Tableau Logo"
+     style="width: 48px; vertical-align: middle;" />
 </div>
 
 </div>
