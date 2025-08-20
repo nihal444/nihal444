@@ -12,7 +12,7 @@
  
  🔭 I’m currently Working on *Projects*
  
- 🌱 I’m currently learning *Web, Docker, AWS*
+ 🌱 My Areas of Interest - *AI, Cloud, Data Analytics*
 
 <!--💬 Ask me about **my hobbies**-->
 
